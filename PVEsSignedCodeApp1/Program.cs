@@ -2,7 +2,7 @@
 Console.WriteLine("Hello, World Default!");
 
             Console.WriteLine("Hello World!");
-            Console.WriteLine("PVE Was Here v2");
+            Console.WriteLine("PVE Was Here v2 VSC");
 
             Console.WriteLine("Press <Return> to continue");
             Console.ReadLine();
