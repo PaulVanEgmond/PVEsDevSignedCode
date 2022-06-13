@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVEsSignedCodeApp1", "PVEsSignedCodeApp1\PVEsSignedCodeApp1.csproj", "{81717C97-874B-4F07-95A1-FAC018123CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVEsSignedCodeClassLib", "PVEsSignedCodeClassLib\PVEsSignedCodeClassLib.csproj", "{38035D9F-1996-4800-9D39-A71F2E90FF08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81717C97-874B-4F07-95A1-FAC018123CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81717C97-874B-4F07-95A1-FAC018123CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81717C97-874B-4F07-95A1-FAC018123CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81717C97-874B-4F07-95A1-FAC018123CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38035D9F-1996-4800-9D39-A71F2E90FF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38035D9F-1996-4800-9D39-A71F2E90FF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38035D9F-1996-4800-9D39-A71F2E90FF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38035D9F-1996-4800-9D39-A71F2E90FF08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
